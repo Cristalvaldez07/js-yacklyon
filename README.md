@@ -1,0 +1,1 @@
+### JavaScript is the programming language that brings websites to life.
